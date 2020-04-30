@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/zhong132/1917#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
